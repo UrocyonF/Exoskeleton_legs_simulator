@@ -54,7 +54,9 @@ This file contains the simulation of the exoskeleton. This simulation is made to
 #
 
 ### ```animation.gif```
-This file is the animation of the simulation. This animation is made to show the movement of the exoskeleton and the forces acting on it.
+This file is the animation of the simulation. This animation is made to show the movement of the exoskeleton.
+
+![](animation.gif)
 #
 
 ### ```documents```
