@@ -42,7 +42,7 @@ The project is organised as follow:
 │   ├── Exoskeleton_study_FR.pdf
 │   ├── Algorithm.pdf
 │   ├── Algorithme_FR.pdf
-│   ├── Basic_functions_Sympy_Scipy_Numpy_FR.pdf
+╵   └── Basic_functions_Sympy_Scipy_Numpy_FR.pdf
 ```
 
 ### [```calcul_dichoto.py```](/calcul_dichoto.py)
