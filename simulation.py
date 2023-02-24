@@ -1,3 +1,8 @@
+"""
+Author: UrocyonF
+Date: 2021 - 2022
+"""
+
 import numpy as np
 import scipy as sp
 import sympy as sp
