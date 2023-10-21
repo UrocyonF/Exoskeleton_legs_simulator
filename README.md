@@ -1,4 +1,4 @@
-# Leg Exoskeleton Simulation - 2021 / 2022
+# Exoskeleton legs Simulation - 2021 / 2022
 
 ## Table of contents
 1. [General Information](#general-info)
