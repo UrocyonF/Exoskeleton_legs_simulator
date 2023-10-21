@@ -9,7 +9,7 @@
 <a name="general-info"></a>
 ## General Informations
 
-This project is part of a study carried out in a group for work in school preparation. It is project is a simulation of a leg exoskeleton. This part is a simulation of the exoskeleton Atalante, developed by the company [Wandercraft](https://www.wandercraft.eu/articles/wandercraft-equipe-henri-mondor-dun-exosquelette-atalante-grace-au-collectif-protegetonsoignant#:~:text=Pionnier%20de%20la%20robotique%20dynamique,les%20stades%20de%20la%20r%C3%A9%C3%A9ducation.).
+This project is part of a study carried out in a group for work in school preparation. This project aims to simulate a leg of an exoskeleton. This part is a simulation of the exoskeleton Atalante, developed by the company [Wandercraft](https://www.wandercraft.eu/articles/wandercraft-equipe-henri-mondor-dun-exosquelette-atalante-grace-au-collectif-protegetonsoignant#:~:text=Pionnier%20de%20la%20robotique%20dynamique,les%20stades%20de%20la%20r%C3%A9%C3%A9ducation.).
 
 The simulation is based on the study of the exoskeleton, which is available in the [documents](/documents/E3A-PSI-2019-ExosqueletteAtalante-Sujet.pdf) folder. All the sources of the project are written in French, but the algorithm is in English and commented in French. This subject is available on the [Upsti](https://www.upsti.fr/espace-etudiants/annales-de-concours/topics/e3a-psi-2019-exosquelette-atalante) website. The simulation is based on the algorithm of the study but aims to go further in the study and simulate the movement of the exoskeleton and all the forces acting on it.
 
