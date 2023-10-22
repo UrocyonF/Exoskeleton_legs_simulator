@@ -4,6 +4,8 @@
 1. [General Information](#general-info)
 2. [Technologies](#technologies)
 3. [Files Organisation](#organisation)
+4. [How to use](#how-to-use)
+
 
 ***
 <a name="general-info"></a>
@@ -15,17 +17,19 @@ The simulation is based on the study of the exoskeleton, which is available in t
 
 A large part of the algorithms is based on the work of Marc BUFFAT on the [modeling of a robot arm with sympy](https://perso.univ-lyon1.fr/marc.buffat/2019/Robotique_Bras2D/index.html#Etude-statique-du-bras-de-robot). This work has been reinterpreted and adapted for the simulation of the leg exoskeleton.
 
+
 ***
 <a name="technologies"></a>
 ## Technologies
 
 A list of technologies used within the project:
-* [Python](https://www.python.org/): Version 3.9.1
-* [Numpy](https://numpy.org/): Version 1.19.2
-* [Scipy](https://www.scipy.org/): Version 1.5.2
-* [Sympy](https://www.sympy.org/en/index.html): Version 1.7.1
-* [Matplotlib](https://matplotlib.org/): Version 3.3.2
-* [IPython](https://ipython.org/): Version 7.19.0
+* [Python](https://www.python.org/)
+* [Numpy](https://numpy.org/)
+* [Scipy](https://www.scipy.org/)
+* [Sympy](https://www.sympy.org/en/index.html)
+* [Matplotlib](https://matplotlib.org/)
+* [IPython](https://ipython.org/)
+
 
 ***
 <a name="organisation"></a>
@@ -85,3 +89,11 @@ This file is the same as the previous one but is written in French.
 
 ### [```Basic_functions_Sympy_Scipy_Numpy_FR.pdf```](/documents/Basic_functions_Sympy_Scipy_Numpy_FR.pdf)
 This file is a summary of the basic functions of the libraries used in the project and is written in French.
+
+
+***
+<a name="how-to-use"></a>
+## How to use
+
+After installing python and all the dependencies (see [Technologies](#technologies)).
+Run the ```simulation.py``` file to have the simulation and all the calculations.
